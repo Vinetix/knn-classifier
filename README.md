@@ -1,4 +1,4 @@
-#🔍 Python K-Nearest Neighbors (KNN) Classifier
+# 🔍 Python K-Nearest Neighbors (KNN) Classifier
 
 A from-scratch implementation of the K-Nearest Neighbors machine learning algorithm built entirely in pure Python.
 
